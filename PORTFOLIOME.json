@@ -1,0 +1,17 @@
+{
+  "title": "GrapeVine",
+  "subtitle": "Conceptual cross-platform translation app",
+  "description": "A conceptual product design for a language translation application integrating Natural Language Processing, Machine Learning, and sentiment analysis to capture slang, dialects, and emotional tone. Deliverables included requirements specification, system architecture, and lifecycle planning.",
+  "technologies": [
+    "NLP",
+    "Machine Learning",
+    "Sentiment Analysis",
+    "System Architecture",
+    "Technical Writing"
+  ],
+  "links": {
+    "github": "https://github.com/yourusername/grapevine",
+    "demo": ""
+  },
+  "thumbnail": "grapevine.png"
+}
